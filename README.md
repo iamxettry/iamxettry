@@ -1,4 +1,9 @@
-### Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/iamxettry/portfolio/blob/main/public/bgWhite.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/iamxettry/portfolio/blob/main/public/handsome_man.jpg">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
 
 <!--
 **iamxettry/iamxettry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
