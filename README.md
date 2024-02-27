@@ -1,7 +1,7 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/iamxettry/portfolio/blob/main/public/bgWhite.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/iamxettry/portfolio/blob/main/public/handsome_man.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/iamxettry/portfolio/blob/main/public/handsome_man.jpg">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <img alt="image" src="https://github.com/iamxettry/portfolio/blob/main/public/about04.png">
 </picture>
 
 
