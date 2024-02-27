@@ -1,8 +1,10 @@
+<!--
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/iamxettry/portfolio/blob/main/public/handsome_man.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/iamxettry/portfolio/blob/main/public/handsome_man.jpg">
  <img alt="image" src="https://github.com/iamxettry/portfolio/blob/main/public/about04.png">
 </picture>
+-->
 
 <h1 align="center">Hi 👋, I'm iamxettry</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
